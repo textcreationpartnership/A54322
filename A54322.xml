@@ -1,0 +1,350 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A collection of some brave actions and memorable sayings of King Henry the Great. Writ in French by the Bishop of Rodez, as a supplement to the history of that King, formerly publish'd by the same author. Done into English. Licensed, June 6. 1688</title>
+            <author>Péréfixe de Beaumont, Hardouin de, b. 1605.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 37 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54322</idno>
+            <idno type="STC">Wing P1465AA</idno>
+            <idno type="STC">ESTC R218232</idno>
+            <idno type="EEBO-CITATION">99829843</idno>
+            <idno type="PROQUEST">99829843</idno>
+            <idno type="VID">34288</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54322)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 34288)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2011:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A collection of some brave actions and memorable sayings of King Henry the Great. Writ in French by the Bishop of Rodez, as a supplement to the history of that King, formerly publish'd by the same author. Done into English. Licensed, June 6. 1688</title>
+                  <author>Péréfixe de Beaumont, Hardouin de, b. 1605.</author>
+               </titleStmt>
+               <extent>[12], 56 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Abel Roper at the Bell over against the Middle Temple-Gate, near Temple-Bar,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Bishop of Rodez = Hardouin de Beaumont de Péréfixe.</note>
+                  <note>Caption title on pg. 1: A collection of certain brave actions and memorable sayings of King Henry the Great.</note>
+                  <note>With 2 initial advert. leaves.</note>
+                  <note>Reproduction of the original at the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Henry, --  IV, --  King of England --  1367-1413 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-11</date>
+            <label>Graham Hukill</label>Sampled and proofread</change>
+         <change>
+            <date>2010-11</date>
+            <label>Graham Hukill</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:34288:1" rendition="simple:additions"/>
+            <p>A COLLECTION OF SOME Brave ACTIONS AND Memorable SAYINGS OF King <hi>Henry</hi> the Great. Writ in <hi>French</hi> by the Biſhop of <hi>Rodez,</hi> as a Supplement to the Hiſtory of that King, formerly publiſh'd by the ſame Author.</p>
+            <p>Done into Engliſh.</p>
+            <p>Licenſed, <hi>June</hi> 6. 1688.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Abel Roper</hi> at the <hi>Bell</hi> over againſt the <hi>Middle Temple-Gate,</hi> near <hi>Temple-Bar,</hi> 1688.</p>
+            <pb facs="tcp:34288:2"/>
+            <pb facs="tcp:34288:2" rendition="simple:additions"/>
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+         <div type="notice">
+            <pb facs="tcp:34288:3"/>
+            <pb facs="tcp:34288:3"/>
+            <head>Advertiſement.</head>
+            <p>THE Glorious Name of <hi>Henry the Great</hi> is ſuf<g ref="char:EOLhyphen"/>ficient to recommend to the the Public any thing concern<g ref="char:EOLhyphen"/>ing him. Nor is it the leaſt of thoſe Glories which Crown his Memory, that not only the moſt Chriſtian King now reigning in <hi>France</hi> is his Grandſon, but alſo our own moſt Gracious Sovereign King <hi>James</hi> II. whoſe true and live<g ref="char:EOLhyphen"/>ly Character we may read in what is here ſaid of his Grand<g ref="char:EOLhyphen"/>father
+<pb facs="tcp:34288:4"/>King <hi>Henry</hi> IV. This Collection of that famous Prince's Words and Actions I find Printed at the end of the French Edition of his Life, and writ by the ſame Author, <hi>Hardovin de Perefixe,</hi> Biſhop of <hi>Rodez;</hi> tho it ſeems it has not been hitherto rendred in<g ref="char:EOLhyphen"/>to our Language. Certainly the Remarks here collected are worthy the Applauſe of all Nations, and the Imitation of the greateſt and braveſt of Men. As he was not inferi<g ref="char:EOLhyphen"/>our (except only in time) to the beſt of thoſe Heroes of Antiquity, whoſe Actions and
+<pb facs="tcp:34288:4"/>Sayings <hi>Plutarch</hi> hath with great Induſtry collected, ſo are theſe Particulars of his Life no leſs worthy of Ob<g ref="char:EOLhyphen"/>ſervation. But I will detain the Reader no longer from peruſing the Author, premi<g ref="char:EOLhyphen"/>ſing only, that the Biſhop of <hi>Rodez</hi> was formerly Preceptor to his Preſent Majeſty of <hi>France,</hi> King <hi>Lewis</hi> XIV, and the occaſion of his making theſe Collections, he hath ſuf<g ref="char:EOLhyphen"/>ficiently ſet forth in his Epi<g ref="char:EOLhyphen"/>ſtle Dedicatory to that King, as follows.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:34288:5"/>
+            <pb facs="tcp:34288:5"/>
+            <head>TO THE KING.</head>
+            <opener>
+               <salute>SIRE,</salute>
+            </opener>
+            <p>WHEN I obſerved your Majeſties Care and De<g ref="char:EOLhyphen"/>light in reading the Summary of the Life of <hi>Henry the Great</hi> to have given your Majeſty ſome Sa<g ref="char:EOLhyphen"/>tisfaction, and cauſed ſo great Joy in all <hi>France,</hi> who ſaw her King follow ſuch glorious Exam<g ref="char:EOLhyphen"/>ples, I thought my ſelf obliged to add thereunto this little Collection,
+<pb facs="tcp:34288:6"/>which I have made of the bra<g ref="char:EOLhyphen"/>veſt Actions, and the moſt me<g ref="char:EOLhyphen"/>morable Sayings of that Auguſt Monarch; That ſo the Picture which I have already preſented to your Majeſty may appear more finiſht and perfect. In effect, <hi>Sire,</hi> theſe par<g ref="char:EOLhyphen"/>ticulars do repreſent the Interior of his Soul, and expreſs his Ge<g ref="char:EOLhyphen"/>nius and his Inclinations more lively than all that has been ſaid in the moſt glorious part of his Hiſtory; and diſcovering to us the bottom of his Heart and Spi<g ref="char:EOLhyphen"/>rit, they at the ſame time make us ſee that this generous Prince was ſuch within, as he appeared without; and that he was not at
+<pb facs="tcp:34288:6"/>all like thoſe who have nothing good but the Exterior, and who diſguiſe dangerous Vices under beautiful Appearances. But, <hi>Sire,</hi> it muſt neceſſarily be acknowledg<g ref="char:EOLhyphen"/>ed, that you have made a much better Picture of him in your Perſon and Conduct, beyond the performance of all the Pencils and Pens of the World. Further let me add, that in regard your Ma<g ref="char:EOLhyphen"/>jeſty is not diſpleaſed that I have the Honour to be near your Per<g ref="char:EOLhyphen"/>ſon, and that thereby I have the Joy to ſee ſuch great and glorious Actions at ſo little diſtance, I find my ſelf engaged to commit them to writing, that ſo I may one day
+<pb facs="tcp:34288:7"/>atteſt them to all <hi>Europe,</hi> and to Poſterity. I believe that when the Public ſhall ſee the Hiſtory which I deſign to give them, they will confeſs, that the Parallel of your Majeſty with <hi>Henry the Great</hi> will be moſt juſt, and that even the Glory of the Grandfather will receive new Splendor from that of his Grandſon. I ſhall be at no trouble to invent any Artifice, or falſe Ornaments, to embeliſh the Work: I ſhall not need to employ therein any thing but Candour, and the ſimple Truth; and if I have any Reproach to fear, it will be that I have ſaid leſs than Renown it ſelf has pub<g ref="char:EOLhyphen"/>liſht.
+<pb facs="tcp:34288:7"/>In effect, <hi>Sire,</hi> ſeeing that ſo noble Ayr, and that profound Wiſdom with which your Majeſty proceeds, I dare boldly, and with<g ref="char:EOLhyphen"/>out Flattery fore-tell, that your Heroic Vertues will in a little time ſurpaſs thoſe of <hi>Auguſtus,</hi> of <hi>Charlemagne,</hi> and of <hi>Henry the Great;</hi> and I hope alſo that, the Favours of Heaven continu<g ref="char:EOLhyphen"/>ing, I ſhall ſee your Glory and your Poſterity to equal the Deſires which I daily make with that Zeal which ought to appear in,</p>
+            <closer>
+               <salute>SIRE</salute> 
+               <signed>Of your Majeſty, The moſt humble, moſt obedi<g ref="char:EOLhyphen"/>ent, moſt faithful, and moſt obliged Servant and Subject,
+Hardovin B. <hi>of</hi> Rodez.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="collection">
+            <pb facs="tcp:34288:8"/>
+            <pb n="1" facs="tcp:34288:8"/>
+            <head>A COLLECTION OF CERTAIN Brave ACTIONS AND Memorable SAYINGS OF King <hi>Henry</hi> the Great.</head>
+            <p>IT would be a Task mighty painful, and without end, to him who aims to expreſs eve<g ref="char:EOLhyphen"/>ry thing that's Brave in the Life of <hi>Henry the Great.</hi> More than Fifty Hiſtorians, and above Five Hun<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="2" facs="tcp:34288:9"/>Panegyriſts, Poets, and Orators have endeavour'd it, and yet have not expreſt half what the Subject affords. Amidſt ſo great variety, we collect here ſome Flowers, not the moſt beautiful, perhaps, but however, ſuch as pleaſe beſt; and we will put them together with<g ref="char:EOLhyphen"/>out Art and Order; the Confuſion of pleaſing Objects having its pro<g ref="char:EOLhyphen"/>per Beauty as well as the beſt Me<g ref="char:EOLhyphen"/>thod.</p>
+            <p>Some have obſerv'd that this Great King excell'd the Emperor <hi>Auguſtus</hi> in Goodneſs and Mercy; and that, like him, after a long Inteſtine War, he cloſed up the Wounds of the State, allay'd the Tempeſt that diſturb'd it, and re<g ref="char:EOLhyphen"/>ſtor'd the Force of the Laws, the Authority of the Magiſtrate, and the Diſcipline of his Soldiers.</p>
+            <pb n="3" facs="tcp:34288:9"/>
+            <p>Many alſo have compared the begining of his Reign to that of <hi>David</hi> for the great Revolutions that exercis'd his Courage: The Middle, to that of <hi>Solomon</hi> for the Order and Beauty of his Govern<g ref="char:EOLhyphen"/>ment, and for the Plenty and Riches which he procured to his Kingdom: And his mournful End to that of <hi>Joſias.</hi> Three of the beſt and moſt religious Kings that ever Govern'd God's People.</p>
+            <p>Others have put him in parallel with <hi>Cyrus,</hi> the Founder of the <hi>Perſian</hi> Empire; with <hi>Alexander</hi> the Great, with the Emperors <hi>Con<g ref="char:EOLhyphen"/>ſtantine</hi> I. <hi>Charlemagne, Otho,</hi> and <hi>Henry</hi> IV. Certain it is, there is not one of theſe Princes to whom he may not be equall'd, and, per<g ref="char:EOLhyphen"/>haps, in ſome particulars he much excells.</p>
+            <pb n="4" facs="tcp:34288:10"/>
+            <p>It is a curious Obſervation, that never any Prince arriv'd to the Suc<g ref="char:EOLhyphen"/>ceſſion of a Crown, at ſo great a diſtance from it; nor ever ſaw ſo many Princes of the Blood die be<g ref="char:EOLhyphen"/>fore him. But it is a more important Remarque, that never King of <hi>France</hi> united ſo many fair Poſſeſſi<g ref="char:EOLhyphen"/>ons into his Dominion as he. He only, brought more Additions to the Crown, than <hi>Philip de Valois, Lewis</hi> XII. and <hi>Francis</hi> I. who all, like him, were of the collateral Line.</p>
+            <p>He annext that part which was left him of the Kingdom of <hi>Na<g ref="char:EOLhyphen"/>varre,</hi> the Soveraignty of <hi>Bearn,</hi> the Dutchies of <hi>Alanſon, Vendoſme, Albert, Beaumont, Vicomte,</hi> I know not how many rich Counties, <hi>Foix, Armagnac, Bigorre, Rovergue, Pe<g ref="char:EOLhyphen"/>igord, la Fere, Marle, Soiſſons, Li<g ref="char:EOLhyphen"/>moges,
+<pb n="5" facs="tcp:34288:10"/>Converſan,</hi> and ſo many o<g ref="char:EOLhyphen"/>ther Lands, that to name them would be troubleſom.</p>
+            <p>It is eaſie to ſay what was the moſt prevailing Paſſion of this Prince, but not which was the greateſt of his Vertues; for he had them almoſt all in the higheſt degree. As to his Courage and Warlike Vertue, it would be per<g ref="char:EOLhyphen"/>adventure impoſſible to find any Sovereign Prince, nay even any Captain, who ever ſhewed it on ſo many occaſions. It is reported of the Emperor <hi>Henry</hi> IV. that he had been in Threeſcore and Two Battels, or eminent Combats; but our <hi>Henry</hi> had ſignaliz'd his He<g ref="char:EOLhyphen"/>roick Valour in Four or Five pitcht Battels, more than a Hundred Bloody Combats, and in Two Hundred Sieges. Before the Death
+<pb n="6" facs="tcp:34288:11"/>of <hi>Henry</hi> III. had call'd him to the Crown of <hi>France,</hi> he had defend<g ref="char:EOLhyphen"/>ed himſelf againſt Seven Wars, which he concluded happily in Se<g ref="char:EOLhyphen"/>ven Treaties of Peace; and in theſe Wars, at divers times, and in divers places, he has had Four or Five Armies upon him, having no good aſſurance to truſt in but his own proper Vertue to ſupport ſo great a Weight.</p>
+            <p>From the Age of Fifteen Years, at which time he firſt put on his Arms, he bore them continually to the Age of Forty Five. In all occaſions he was as forward in Danger as any one of his Captains. He was wounded two or three times, but ſlightly. However it was not Raſhneſs, nor only the deſire of Glory that engaged him in ſuch Hazards, but Neceſſity. It
+<pb n="7" facs="tcp:34288:11"/>concern'd him to ſhew an Exam<g ref="char:EOLhyphen"/>ple to his Soldiers: The Fortune of <hi>France,</hi> and his own, was re<g ref="char:EOLhyphen"/>duc'd to that Condition, that Ho<g ref="char:EOLhyphen"/>nour oblig'd him either to con<g ref="char:EOLhyphen"/>quer or die; otherwiſe he had not expoſed himſelf in ſuch ſort as he did: For he was not ignorant that a King, whoſe Affairs are in Peace, ought to preſerve himſelf for the Love of his Subjects, to whom he ows himſelf more than to himſelf.</p>
+            <p>He was ſo generous as to cauſe <hi>Vitry</hi> the Captain of his Guards to receive the Man who had wound<g ref="char:EOLhyphen"/>ed him at the Battle of <hi>Aumale.</hi> The Mareſchal <hi>d'Eſtrees</hi> being one day with him in his Coach, and his Guard marching by to their Poſt, he ſhewed him the Man, ſaying, <hi>Behold there the Soldier that wound<g ref="char:EOLhyphen"/>ed me at the Battle of</hi> Aumale. Re<g ref="char:EOLhyphen"/>ally
+<pb n="8" facs="tcp:34288:12"/>this was a moſt Heroique Action.</p>
+            <p>He never feared Death in what<g ref="char:EOLhyphen"/>ſoever poſture ſhe preſented her ſelf to him, whether in the Field, or in Bed. He was often heard to ſay, That he yielded himſelf with an entire Submiſſion to the Di<g ref="char:EOLhyphen"/>vine Providence, and that he ſhould never have either Fear or Regret, when it ſhould pleaſe God to call him.</p>
+            <p>He went to a Fight with a Cou<g ref="char:EOLhyphen"/>rage truly Martial, and with a brave Reſolution, but without Va<g ref="char:EOLhyphen"/>nity. After a Victory he expreſs'd leſs Joy, than before the Encoun<g ref="char:EOLhyphen"/>ter: For (as he expreſs'd himſelf) he could not rejoyce to ſee ſo ma<g ref="char:EOLhyphen"/>ny <hi>French-men,</hi> his Subjects, lye dead on the place, and that the Gain which he made from that
+<pb n="9" facs="tcp:34288:12"/>Action could not be without a Loſs.</p>
+            <p>He was wondrous active. He was himſelf perſonally in all his Enterpriſes. He apply'd himſelf entirely to what he undertook; and never went about any thing of which he had not a perfect Knowledge, and had fore-ſeen all the means by which he might ex<g ref="char:EOLhyphen"/>pect to be ſucceſsful, or obſtructed. He had always an attentive Eye to the Execution of what he com<g ref="char:EOLhyphen"/>manded, and oftentimes made him<g ref="char:EOLhyphen"/>ſelf one of the Party. Thus he found few Enterpriſes that he did not go through, and few Obſtacles that he did not fore-caſt; in ſuch manner, that it. was not without juſt Reaſon that he took for his Device a <hi>Hercules,</hi> the Conquerour of Monſters, with theſe words,
+<q>Invia Virtuti nulla eſt via.</q>
+            </p>
+            <pb n="10" facs="tcp:34288:13"/>
+            <p>He judg'd wonderfully of the Deſigns of his Enemies; and often foreſeeing what they would under<g ref="char:EOLhyphen"/>take, he gave out ſuch Orders as ſecur'd his Army, and cauſed the greateſt of his Captains to ſay, That they were beholden to him for their ſafety, and that he, ha<g ref="char:EOLhyphen"/>ving a Soul more elevated, ſaw further than any of them.</p>
+            <p>His Promptitude was no leſs than his Judgment. The Duke of <hi>Parma</hi> having obſerv'd with what celerity he acted, ſaid of him, That other Generals made War like Ly<g ref="char:EOLhyphen"/>ons and Wild Boars, Beaſts of the Earth, but the King like a Flying Eagle. He was continually on Horſeback, which was the occaſi<g ref="char:EOLhyphen"/>on that they ſaid of him, that he wore out more Boots than Shooes,
+<pb n="11" facs="tcp:34288:13"/>and that he was leſs time in Bed than the Duke of <hi>Mayenne</hi> at Table.</p>
+            <p>He uſed to ſay, That the great Feaſters and the great Sleepers were not capable of any great A<g ref="char:EOLhyphen"/>ction: And that a Soul, which ſleep<g ref="char:EOLhyphen"/>ing and eating had overwhelm'd in a Maſs of Fat, could not have any noble and generous Motions. If he loved Feaſts and good Cheer, it was not for filling his Belly, but only for the refreſhing his Spirit, and rejoycing himſelf.</p>
+            <p>He was no Bigot, but truly pi<g ref="char:EOLhyphen"/>ous and Chriſtian. He had very good Sentiments of the Majeſty and infinite Goodneſs of God. It was his Saying, That he trembled with Fear, and that he became leſs than an Atome, when he be<g ref="char:EOLhyphen"/>held
+<pb n="12" facs="tcp:34288:14"/>himſelf in the Preſence of ſuch an Almighty Power, who has raiſed all things from nothing, and who could reduce them again to the ſame Original, by withdraw<g ref="char:EOLhyphen"/>ing his Almighty Hand: But that he felt himſelf tranſported with un<g ref="char:EOLhyphen"/>utterable Joy, when he contem<g ref="char:EOLhyphen"/>plates, that his Sovereign Good<g ref="char:EOLhyphen"/>neſs protects all Men under his Wings, as his Children; and more eſpecially Kings, to whom he communicates his Power of do<g ref="char:EOLhyphen"/>ing good to other Men.</p>
+            <p>After his Converſion, he had always a very great reſpect for the Holy See, and ſhewed himſelf its Defender with no leſs Zeal than his Anceſtors: And alſo expreſt a ſtrong and lively Faith for the Re<g ref="char:EOLhyphen"/>ality of Chriſt's Body in the Eu<g ref="char:EOLhyphen"/>chariſt.</p>
+            <pb n="13" facs="tcp:34288:14"/>
+            <p>Paſſing one Day in a Street near the <hi>Lonvre,</hi> he met a Prieſt carry<g ref="char:EOLhyphen"/>ing the Holy Sacrament; He caſt himſelf immediately upon his Knees, and adored with mighty reſpect. The Duke of <hi>Sully,</hi> a <hi>Hugnenot,</hi> who was then with him, demanded, <hi>Sir, Is it poſſible that you can believe in this after the things which I have ſeen?</hi> The King an<g ref="char:EOLhyphen"/>ſwered, <hi>Yes, by the Living God, I believe; and he muſt be a Mad-man who believes not: I would willingly loſe a Finger, that you alſo believed as I do.</hi>
+            </p>
+            <p>He alſo employed all Gentle Means to draw along with him all his Subjects into the Boſom of the Church, in ſuch ſort, as he was the cauſe of bringing in of more than Threeſcore Thouſand Souls.
+<pb n="14" facs="tcp:34288:15"/>But he would never uſe any Vio<g ref="char:EOLhyphen"/>lence for this end, as the Leaguers deſired; nay, he deſpiſed thoſe who became Converts for any temporal Intereſt.</p>
+            <p>When he prayed, he kneel'd up<g ref="char:EOLhyphen"/>on both Knees, his Hands joyned, and his Eyes lift up to Heaven; his Prayers were not long, but fer<g ref="char:EOLhyphen"/>vent: Through the whole Courſe of his Life he never undertook any thing, but firſt he implored the Aſſiſtance of God, and com<g ref="char:EOLhyphen"/>mitted the event into his hands. It is but a few days ſince I was infor<g ref="char:EOLhyphen"/>med by a Perſon of great Quality, who did uſually accompany the King in his Huntings, that he never diſlodged a Deer, but that he put off his Hat, and made the Sign of the Croſs, and then ſet Spurs to his Horſe, and away after the Chaſe.</p>
+            <pb n="15" facs="tcp:34288:15"/>
+            <p>He had read and ſtudied the Holy Scriptures, and took great delight to hear them explained; and would often in his Diſcourſe bring Examples from thence.</p>
+            <p>While he was yet a <hi>Huguenot,</hi> he had an Honour for the Prelates and Eccleſiaſtics, tho they were his ſevereſt Perſecutors; and that the moſt of them, inſtead of re<g ref="char:EOLhyphen"/>ducing him by fair means into the Sheep-fold, did what poſſibly they could to expel him ſtill further, and ſhut the Gate againſt him.</p>
+            <p>Here-eſtabliſht the exerciſe of the Catholique Religion in more than three hundred Cities and Towns, where it had not been ſuffer'd of Thirty years before. What ſhall I ſay of ſo many Churches which
+<pb n="16" facs="tcp:34288:16"/>he Re-built, and of ſo many Hoſ<g ref="char:EOLhyphen"/>pitals which he Founded? among others that of S. <hi>Lewis</hi> near <hi>Paris,</hi> for thoſe who have the Plague, one of the moſt Beautiful Structures that adorn that great City; and that of the Brothers <hi>de la Charitie</hi> in the <hi>Fauxbourg St. Germain;</hi> It was his Credit that preſerved the Holy Sepulchre of Chriſt in <hi>Je<g ref="char:EOLhyphen"/>ruſalem,</hi> which the <hi>Turks</hi> were about to demoliſh, and cauſed the <hi>Cordeliers,</hi> who were the Guardi<g ref="char:EOLhyphen"/>ans of that place, to be releaſed, whom the <hi>Barbarians</hi> had put in Irons; and obtain'd the <hi>Grand Seigniors</hi> permiſſion to build a Houſe for the Fathers Jeſuits in the Suburbs of <hi>Conſtantinople.</hi>
+            </p>
+            <p>
+               <hi>Homer</hi> calls Juſtice one of the Counſellors of <hi>Jupiter.</hi> One may ſay more truly that ſhe was ſo to
+<pb n="17" facs="tcp:34288:16"/>
+               <hi>Henry</hi> the Great. If we may be<g ref="char:EOLhyphen"/>lieve his greateſt Confident, he did often proteſt both in Public and Private, that he did not at all de<g ref="char:EOLhyphen"/>ſire the Goods of others unjuſtly; that he ſought nothing but his own; and that God had given him a Kingdom great enough for his ſatisfaction, were it not that his Providence did permit ſome<g ref="char:EOLhyphen"/>thing elſe. We may alſo perceive plainly, that in the great deſign which he had to divide Chriſtiani<g ref="char:EOLhyphen"/>ty into Fifteen Dominions, he took not one Foot of Land to himſelf; ſo far did he renounce his juſt Pre<g ref="char:EOLhyphen"/>tenſions to the Kingdom of <hi>Na<g ref="char:EOLhyphen"/>varre.</hi>
+            </p>
+            <p>Never was Prince more punctu<g ref="char:EOLhyphen"/>al than he in the Payment of his Debts. We need but ſee his Let<g ref="char:EOLhyphen"/>ters to the Duke of <hi>Sully</hi> his Sur<g ref="char:EOLhyphen"/>intendent,
+<pb n="18" facs="tcp:34288:17"/>in which he often com<g ref="char:EOLhyphen"/>manded him to pay even what he loſt at play.</p>
+            <p>One of the Projects which he endeavour'd with the greateſt Ar<g ref="char:EOLhyphen"/>dour to effect, was the retrench<g ref="char:EOLhyphen"/>ing the exorbitant length, and vex<g ref="char:EOLhyphen"/>atious Tricks of the Proceedings at Law; almoſt every time that his Chancellour, and <hi>Achilles de Harlay,</hi> his firſt Preſident, came to wait on him, he would ſtill con<g ref="char:EOLhyphen"/>jure them to find out ſome means, whereby his People might not be any longer tormented by this Ink<g ref="char:EOLhyphen"/>horn War, ſometimes more ruin ous than that of two Armies.</p>
+            <p>He could not ſee without aver<g ref="char:EOLhyphen"/>ſion, Prelates of an ill Life, and corrupt Judges. He uſed to ſay of the firſt, I would willingly do
+<pb n="19" facs="tcp:34288:17"/>what they Preach, but they little think that I know what they them<g ref="char:EOLhyphen"/>ſelves are. And of the other, I cannot comprehend how People ſhould be ſo wicked, as to judge againſt their Knowledge and Con<g ref="char:EOLhyphen"/>ſcience.</p>
+            <p>He had always an open Ear for the Party accuſed. He never ſuf<g ref="char:EOLhyphen"/>fer'd himſelf to be engaged with prejudice, nor ever judged of any perſon before he was throughly inform'd. Thus honeſt men had always the greateſt advantage with him.</p>
+            <p>He ſaid, That to reign well, a King ſhould not do all that he can do. A Sentiment very like that of the Great Emperour <hi>Juſtinian,</hi> Recorded in theſe words, Truly Royal, and Worthy to be Writ in
+<pb n="20" facs="tcp:34288:18"/>Letters of Gold, <hi>Digna Vox eſt Majeſtate Regnantis, Subditum ſe legibus profiteri.</hi>
+            </p>
+            <p>You may ſee here the reaſon why this wiſe King did not think it any diminution of his Authority to hear the Remonſtrances of his Subjects, and his Courts of Juſtice. He debated their Reaſons with themſelves, and with his Council, and ſometimes thought it honou<g ref="char:EOLhyphen"/>rable to change his Reſolutions when he perceived it any way for the better, or where, poſſibly, he had been deceived, knowing well, that there is no Man in the World ſo intelligent, and of ſo clear a Judgment, but that he may fail through Paſſion or Ignorance. But when he found, that the motives which he had to order any thing, were more prevalent and juſt than
+<pb n="21" facs="tcp:34288:18"/>the others, he would be obey'd ſtrictly; and uſed to ſay to his So<g ref="char:EOLhyphen"/>vereign Courts, that his own In<g ref="char:EOLhyphen"/>telligence and Experience could not ſuffer their Contradictions.</p>
+            <p>He ſaid ſometimes, that God did him the favour in his Old Age to let him go twice or thrice a Week to the Parliament, and to the Chamber of Accounts, as the good King <hi>Lewis</hi> XII uſed to do; There to ſhorten Proceedings, and to put his Revenue in ſuch good order, that in the future it might not be Waſted. Such ought to be his latter Walks.</p>
+            <p>He was eaſily induced to grant his Pardons, where the Offence was not horrible; for in ſuch caſes he ſtood firm to the utmoſt Seve<g ref="char:EOLhyphen"/>rity.</p>
+            <pb n="22" facs="tcp:34288:19"/>
+            <p>Thus at one time he anſwer'd a perſon who begg'd the Abolition of an exceſs committed upon ſome Officers of Juſtice; <hi>I have but two Eyes and two Feet; in what then do I differ from the reſt of my Subjects, if I have not the power of Juſtice in my Diſpoſal?</hi>
+            </p>
+            <p>Yet at another time he told a Perſon of Quality, who beſought him for a Pardon for his Nephew, who had kill'd a Man; I am ſorry that I cannot grant your Requeſt; it becomes you to behave your ſelf like an Unkle, and me, as a King; I excuſe your Petition, do you ex<g ref="char:EOLhyphen"/>cuſe my Denyal.</p>
+            <p>He did paſſionately affect Glo<g ref="char:EOLhyphen"/>ry and Reputation, as all great Souls have done, and was extream
+<pb n="23" facs="tcp:34288:19"/>ſenſible both of the Good and Bad which People ſaid of him. But he could not reliſh thoſe Praiſes which were not cordial; and was not at all pleaſed to be praiſed to his Face, nor by ſuch People who were not praiſe-worthy themſelves. For this Reaſon, altho he eſteem<g ref="char:EOLhyphen"/>ed thoſe whom he thought good Hiſtorians, taking delight to diſ<g ref="char:EOLhyphen"/>courſe with them, and inform 'em of what he had done, allowing them great Penſions; yet did he deſpiſe all little Scriblers who were uncapable to eternize his Name. In this he was like <hi>Alexander</hi> the Great, who forbid all Painters to attempt his Picture, but only <hi>A<g ref="char:EOLhyphen"/>pelles,</hi> whoſe Pencil might in ſome ſort equal his own Renown.</p>
+            <p>He did him a great Diſpleaſure who concealed the Truth from
+<pb n="22" facs="tcp:34288:20"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="23" facs="tcp:34288:20"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="24" facs="tcp:34288:21"/>him; he deſir'd to know the Truth in all things: But above all, none could oblige him more, than to let him know what People ſaid of him; for he deſir'd to know his own Faults, that ſo he might re<g ref="char:EOLhyphen"/>form them; however, he was not pleaſed that any ſhould tell him of theſe matters otherwiſe than in private. But ſo, he received their Advice kindly; he would thank them, and encourage ſuch who had taken that Liberty to continue it upon the like occaſions. This is the only way by which a Prince can make himſelf perfect, know all things, and never be de<g ref="char:EOLhyphen"/>ceived.</p>
+            <p>Never was any Prince a more Religious Obſerver of his Faith and Promiſe, than he. Accord<g ref="char:EOLhyphen"/>ing to that excellent Saying of
+<pb n="25" facs="tcp:34288:21"/>King <hi>John,</hi> That if Faith were loſt in the World, ſhe ought to be ſought for, and found in the Mouth of Kings. Of this we have ob<g ref="char:EOLhyphen"/>ſerv'd many Examples in his Life: Among others, that concerning the Duke of <hi>Savoy:</hi> But in regard this was wonderfully brave; it will be good to inſert here what hath been already writ by <hi>D'Au<g ref="char:EOLhyphen"/>bigné,</hi> a Perſon the more credible in this, in regard he hath not bin over favourable to this Prince in other matters:</p>
+            <p>
+               <hi>Two Ancient Counſellors of State,</hi> ſays he, <hi>gave him ſtrange Advice, which was to detain the Duke, and break that ſafe Conduct which he had given him, whom they accu<g ref="char:EOLhyphen"/>ſed of having often broke his Agree<g ref="char:EOLhyphen"/>ments, when to his Advantage: By this means,</hi> ſay they, <hi>the King may recover the Marquiſat of</hi> Salures,
+<pb n="26" facs="tcp:34288:22"/>
+               <hi>ſave much Time and Treaſure, and the Lives of many French Soldiers.</hi> But the King anſwered, <hi>I brought this Principle into the World with me, and I have learnt it from thoſe who nurſed me, that the Obſervation of my Faith is of greater Advantage than any thing that Perfidy can pro<g ref="char:EOLhyphen"/>miſe. I have the Example of King</hi> Francis, <hi>who might by Treachery have kept a greater Prize, I mean</hi> Charles V. <hi>but would not. If the Duke of</hi> Savoy <hi>hath violated his Promiſe, yet the imitation of ano<g ref="char:EOLhyphen"/>thers Fault is a Crime, and the beſt uſe that a King can make of the Per<g ref="char:EOLhyphen"/>fidy of his Enemies, is to advance thereby the Luſtre and Value of his own Faith and Integrity.</hi> Where can any Man find a better Leſſon, and more generous Sentiments?</p>
+            <pb n="27" facs="tcp:34288:22"/>
+            <p>Tho he loved Diſcourſe, and underſtood Railery as well as any Gentleman of his Court, yet he hated all Detractors and Detra<g ref="char:EOLhyphen"/>ctions; and if at any time he ſpoke ill of any Man, it was certainly of ſuch an one who was notoriouſly known to be a Bad Man; and for ſuch he thought it a piece of Ju<g ref="char:EOLhyphen"/>ſtice to decry them, and diſcover to the whole World what ſort of People they were. Witneſs what he ſaid to <hi>Biron</hi> concerning <hi>Laffin;</hi> His faithful Servants had always this Advantage, that the ill Offi<g ref="char:EOLhyphen"/>ces of ſuch Men could never make any impreſſion againſt them in his Mind. Without ſuch a Judgment in a Prince, things would go very ill at Court; and it would be im<g ref="char:EOLhyphen"/>poſſible for honeſt Men to defend themſelves from Paraſites and Knaves.</p>
+            <pb n="28" facs="tcp:34288:23"/>
+            <p>He did infinitely favour his No<g ref="char:EOLhyphen"/>bility and Gentry, and held it a great Glory to be the Head of that illuſtrious Body. When he ſpoke of the ſeveral Bleſſings which God had beſtowed upon him, he eſteem<g ref="char:EOLhyphen"/>ed it above all, that he had a Train of Four Thouſand Gentlemen to attend him, able to encounter the greateſt Army that could be rais'd againſt him. A <hi>Spaniſh</hi> Ambaſſa<g ref="char:EOLhyphen"/>dor did once acknowledge to him, That he was ſurprized to ſee what a number of Gentlemen were con<g ref="char:EOLhyphen"/>tinually about him, and did even crowd him up: The King an<g ref="char:EOLhyphen"/>ſwered, <hi>If you had but ſeen me in a Fight, they crowd me up then much more.</hi>
+            </p>
+            <p>He behaved himſelf to the Courtiers with great Familiarity,
+<pb n="29" facs="tcp:34288:23"/>and deſired that they might uſe the ſame to him, provided they did not loſe the reſpect which was due to his Perſon; and if any was wanting in that, he was aſſuredly made ſenſible of his Fault.</p>
+            <p>Some there are who would inſi<g ref="char:EOLhyphen"/>nuate, that he did not love Men of Learning, but they are much deceived. He allow'd Penſions to many Scholars, even in <hi>Italy</hi> and <hi>Germany,</hi> and took care himſelf that they ſhould receive them. The Cardinal <hi>du Perron, de Sponde, Sca<g ref="char:EOLhyphen"/>liger, Caſaubon, Freſne, Canaye,</hi> and many others have teſtifyed the eſteem which he had for Learn<g ref="char:EOLhyphen"/>ing.</p>
+            <p>'Tis alſo a great Error to believe that he was altogether unlearned himſelf. It is true, he was not ex<g ref="char:EOLhyphen"/>treamly
+<pb n="30" facs="tcp:34288:24"/>knowing; but it is as true, that he was not ignorant in any hing that was neceſſary for a King to know. He underſtood a little <hi>Latin.</hi> He had much ſtudyed Hiſtory, as well that of <hi>France,</hi> as the <hi>Greek</hi> and <hi>Roman,</hi> and the Hi<g ref="char:EOLhyphen"/>ſtory of the Bible. He knew as well the Theory as Practice of the Politicks, Moralality, and OEco<g ref="char:EOLhyphen"/>nomicks. He learnt the Art Mili<g ref="char:EOLhyphen"/>tary from the Books of that Sub<g ref="char:EOLhyphen"/>ject, at the ſame time when he ex<g ref="char:EOLhyphen"/>ercis'd the Practice. And he had by heart many excellent Sentences taken from Ancient Authors, which he uſed to apply ſo very pertinent<g ref="char:EOLhyphen"/>ly, that his Teachers were aſtoniſht. He reſolved at his return from <hi>Ger<g ref="char:EOLhyphen"/>many</hi> to reform the Univerſity of <hi>Paris,</hi> and to found there four or five Colleges to teach freely, and among the reſt, one where there
+<pb n="31" facs="tcp:34288:24"/>ſhould be a Revenue for the Edu<g ref="char:EOLhyphen"/>cating of Three Hundred Gentle<g ref="char:EOLhyphen"/>men, without the leaſt Expence to their Parents.</p>
+            <p>He was not, indeed, liberal even to profuſeneſs, as the Princes of the Houſe of <hi>Valois</hi> had been before him. But if he was ſparing in his Expences, it was becauſe he would ſpare the Subſtance of his poor People; and that he thought it not juſt to vex whole Provinces to enrich particular Perſons. After all he was ſo juſt, and payed ſo well, that none could ever ſay that he retain'd the Sallery or Reward of thoſe who had ſerved him. He gave away every year in good Sil<g ref="char:EOLhyphen"/>ver, not in Bills and Papers, above Three Millions of Livers, which he beſtowed and diſtributed among a great number of People. Was not
+<pb n="32" facs="tcp:34288:25"/>this very much for thoſe times?</p>
+            <p>He was at ſome times haſty and paſſionate to his beſt Servants, but it paſs'd over in a moment; and he was not aſhamed, if they were Perſons of Quality and Merit, to make them his Excuſe. You may remember what he did on this oc<g ref="char:EOLhyphen"/>caſion to <hi>Theodoric de Schomberg</hi> at the Battel of <hi>Yury.</hi>
+            </p>
+            <p>An eaſie Freedom, Truſt, and Facility of Converſation was natu<g ref="char:EOLhyphen"/>ral to him. In the time of War he hath been ſeen to make himſelf a Camrade to Common Soldiers, to ſit down at the <hi>Corps de Gard,</hi> and lay himſelf upon a Mattreſs, to hold in one hand à piece of Camp-Bisket, which he would eat, while with a Coal in the other he would draw out and deſign a Camp and Trench<g ref="char:EOLhyphen"/>es.
+<pb n="33" facs="tcp:34288:25"/>He would himſelf take a Pick<g ref="char:EOLhyphen"/>ax, and dig, to encourage the Sol<g ref="char:EOLhyphen"/>diers to work. He would comfort poor People during the War, and convince them, that it was not he, but the League that was the cauſe of all their Miſeries.</p>
+            <p>Afterwards, in the time of Peace, he would make himſelf familiar with the moſt inferiour Perſons: He would ſuddenly ſlip a way from his Company, and mingle himſelf (unknown) among Country Peo<g ref="char:EOLhyphen"/>ple, and Tradeſmen in Inns, to whom he would put a hundred Queſtions to ſift out of them that which he knew none was bold enough to tell him bare-fac'd, and to diſcover the Oppreſſions which they lay under, whether it were from the Violence of Gentlemen, the Extortions of the Officers of
+<pb n="34" facs="tcp:34288:26"/>his Revenues and Taxes, or the corrupt Decrees of wicked Judges. When he had learnt from them what he ſought for, he would re<g ref="char:EOLhyphen"/>turn again to his Courtiers, who were ſometimes not a little trou<g ref="char:EOLhyphen"/>bled in his Abſence to know what was become of him.</p>
+            <p>It was upon one of theſe occa<g ref="char:EOLhyphen"/>ſions, that an inferiour Tradeſman, but a Man of Good Senſe, convin<g ref="char:EOLhyphen"/>ced him, that the Paulete, or An<g ref="char:EOLhyphen"/>nual Right, was an Invention high<g ref="char:EOLhyphen"/>ly prejudicial both to King and People. Another time being in an Inn at <hi>Milly</hi> in <hi>Gaſtinois,</hi> and ha<g ref="char:EOLhyphen"/>ving put certain people there into a Diſcourſe of his Life, there was one who ſaid a thouſand good things of him, but concluded thus, He loves Women too much, God puniſhes Adulterers, it is to be
+<pb n="35" facs="tcp:34288:26"/>feared that in the end he will not let it paſs, having endured ſo long. Theſe Words ſunk ſo deep in his Heart, that he confeſs'd never any Preacher toucht him ſo ſenſibly.</p>
+            <p>Another time being extream hungry in hunting, he came to an Inn on the High-way, and ſet him<g ref="char:EOLhyphen"/>ſelf down at Table with a Com<g ref="char:EOLhyphen"/>pany of Tradeſmen; where ha<g ref="char:EOLhyphen"/>ving dined, they began to talk of him, (they knew him not, for his Apparel was always plain.) A cer<g ref="char:EOLhyphen"/>tain Fellow that dealt in Hogs cry'd, <hi>Never ſpeak of that, the Cask will always ſmell of the Herring.</hi> A while after the King ſtanding at the Window, ſaw ſeveral Lords who rode about to find him; theſe ſeeing the King, came up preſent<g ref="char:EOLhyphen"/>ly to the Chamber: The Hog-Merchant hearing them call him
+<pb n="36" facs="tcp:34288:27"/>
+               <hi>Sire,</hi> and your Majeſty, without doubt was ſufficiently aſtoniſht, and wiſht heartily that he had never ſpoke thoſe fooliſh Words. But the King ſtepping from the place where he ſtood, ſtroke him gently on the Arm, ſaying, <hi>Honeſt Man, the Cask will always ſmell of the Herring; but this ought to be applyed to you, and not to me: I am, I praiſe God, a good Catholick, but you keep ſtill the old Leaven of the League.</hi>
+            </p>
+            <p>In what Terms ought we to ſpeak of his good Humour and Clemency, to expreſs them wor<g ref="char:EOLhyphen"/>thily? One may ſay that he was all Heart, and that he had no Gall. Of ſo many Conſpirators that did their endeavour to embroyl the Kingdom, 'tis obſerved, that he never Executed any but the Ma<g ref="char:EOLhyphen"/>reſchal <hi>de Biron,</hi> to whom, before
+<pb n="37" facs="tcp:34288:27"/>he delivered him over to Juſtice, he offer'd his pardon, three ſeve<g ref="char:EOLhyphen"/>ral times, in caſe he would but ac<g ref="char:EOLhyphen"/>knowledge his Offence.</p>
+            <p>In all his Wars, when he ſaw his Enemies give Ground, and juſt put to the Rout, did he not uſe to ride up to the Head of his Bataillions, crying, <hi>Save the French, Quarter to the French.</hi> In time of Peace he al<g ref="char:EOLhyphen"/>ways preſerved his Hands clean from the Bloud of his Subjects; although in his Wars, he never re<g ref="char:EOLhyphen"/>turn'd from a Fight with his Sword unſtain'd in the Bloud of his Ene<g ref="char:EOLhyphen"/>mies.</p>
+            <p>Like a good Shepherd, who en<g ref="char:EOLhyphen"/>deavours to Cure thoſe of his Flock that are infected, rather than cut their Throats. He uſed all patience, obliging Actions, and
+<pb n="38" facs="tcp:34288:28"/>Addreſs, to recover thoſe whom the Faction had infected. He diſ<g ref="char:EOLhyphen"/>ſembled the knowledg of their ill Will, and in ſpite of their Endea<g ref="char:EOLhyphen"/>vours he hindred them from do<g ref="char:EOLhyphen"/>ing Evil, and converted them to good. <hi>A wiſe King,</hi> ſaid he, <hi>is like an able Apothecary, who of the worſt of Poyſons compoſes excellent Antidotes, and of Vipers makes Trea<g ref="char:EOLhyphen"/>cle.</hi>
+            </p>
+            <p>Above all theſe excellent Qua<g ref="char:EOLhyphen"/>lities, we ought to place the un<g ref="char:EOLhyphen"/>ſpeakable Love and Tenderneſs which he had for his People. He affected nothing more paſſionate<g ref="char:EOLhyphen"/>ly than to pleaſure them, and to make them live at peace and eaſe. To this purpoſe was his moſt or<g ref="char:EOLhyphen"/>dinary Diſcourſe. We may ſee an infinite number of his Letters to the Governours of Provinces, to
+<pb n="39" facs="tcp:34288:28"/>his Sur-intendants, and to his Par<g ref="char:EOLhyphen"/>liaments, containing theſe Expreſſi<g ref="char:EOLhyphen"/>ons, <hi>Take Care of my People, they are my Children, God has given them to my Care, and I am reſponſible;</hi> and ſuch like Words, full of Ar<g ref="char:EOLhyphen"/>dour, and a moſt cordial and pa<g ref="char:EOLhyphen"/>ternal Goodneſs.</p>
+            <p>When the Duke of <hi>Savoy</hi> came to <hi>Paris,</hi> the King took him one day to ſee'em play at Tennis, in the <hi>Fauxbourg St. Germain;</hi> after the Sport was over, as they were ſtand<g ref="char:EOLhyphen"/>ing together at the Window that open'd to the Street; the Duke ſee<g ref="char:EOLhyphen"/>ing a mighty Concourſe of people, told him, He could never ſufficiently admire the Beauty and Opulence of <hi>France,</hi> and askt his Majeſty what the Revenue might be worth to him. This Prince generous and ready in his Repartees, anſwered, <hi>It is worth what I pleaſe.</hi> The Duke
+<pb n="40" facs="tcp:34288:29"/>finding this Anſwer evaſive, preſt him to tell him preciſely what <hi>France</hi> yielded him. The King replyed, <hi>Yes indeed, what I pleaſe; for having the Heart of my People, I have all that I deſire: And if God gives me but Life, I will cauſe that there ſhall not be a Labourer in my. Kingdom, but he ſhall be able, if he pleaſes, to have a Hen in his Pot eve<g ref="char:EOLhyphen"/>ry day.</hi> Adding, <hi>And if they have not ſo at preſent, it is becauſe I am forced to maintain ſo many Soldiers to reduce all thoſe to reaſon, who would choak my Authority.</hi> The Duke re<g ref="char:EOLhyphen"/>plyed not a word more, but re<g ref="char:EOLhyphen"/>main'd ſatisfy'd with the Anſwer.</p>
+            <p>Certain Troops that he ſent into <hi>Germany,</hi> having committed ſome Diſorders in <hi>Champagne,</hi> and plun<g ref="char:EOLhyphen"/>dered ſome of the Peaſant's Hou<g ref="char:EOLhyphen"/>ſes, he told the Captains that re<g ref="char:EOLhyphen"/>main'd
+<pb n="41" facs="tcp:34288:29"/>behind in <hi>Paris: Depart in ſpeed, and take Orders about this bu<g ref="char:EOLhyphen"/>ſineſs, or you ſhall anſwer for it. What! if they ruine my People that nouriſh me, who ſhall maintain the Charges of the Government; and who ſhall pay your Penſions, Gentlemen? Living God! He that takes from my People, takes from me.</hi>
+            </p>
+            <p>The Inhabitants of the <hi>Vally</hi> which runs along the River <hi>Loire,</hi> having been great Sufferers by the over<g ref="char:EOLhyphen"/>flowing of that River, beſought to be eaſed of the Taxes, and to that purpoſe writ to the Duke of <hi>Sully,</hi> Sur-intendant of the <hi>Finan<g ref="char:EOLhyphen"/>ces,</hi> who preſently made their Re<g ref="char:EOLhyphen"/>queſt known to the King by Let<g ref="char:EOLhyphen"/>ter, who anſwer'd in theſe pathe<g ref="char:EOLhyphen"/>tical Expreſſions; <hi>As to that about the great Flouds, God has given me my Subjects to preſerve them as my
+<pb n="42" facs="tcp:34288:30"/>Children; Let my Council treat them with Charity; Alms are moſt pleaſing to God, eſpecially upon this occaſion: I have a Tender Conſcience; let them then have all the Aſſiſtance that you think I can afford them.</hi> After this can we wonder if this Prince was adored by all the World?</p>
+            <p>The beſt Mark of the Goodneſs of a Sovereign Prince, and the ſtreight Band which ought to be always between him and his Sub<g ref="char:EOLhyphen"/>jects, is, the Care which he hath to communicate to them his own Joys, and the part which they take in thoſe Joys, not only by outward appearances, which are extreamly deceitful, and which they afford as well to bad as good Princes; but alſo by the inward motions, and by the Sentiments of the Heart.</p>
+            <pb n="43" facs="tcp:34288:30"/>
+            <p>From the firſt entry that this true Father of the <hi>French</hi> made in<g ref="char:EOLhyphen"/>to <hi>Paris,</hi> and when his Goodneſs began to be known there, all the Inhabitants of that little Word were always concern'd for what<g ref="char:EOLhyphen"/>ever happen'd to him, and were as much affected with it, as if it had happened to themſelves: They re<g ref="char:EOLhyphen"/>joyced at his Contentments, and ſorrowed at his Diſpleaſure. Both the times he was ſick, it ſeemed as if the people of that Great City had been in a Fever: On the con<g ref="char:EOLhyphen"/>trary, he was no ſooner well a<g ref="char:EOLhyphen"/>gain, but his Health became theirs, and they believed that the Health of the Kingdom, and that of their Prince was the ſame thing. In like manner, when God had ſent him any cauſe of Joy, he deſir'd that they might partake of it; and to
+<pb n="44" facs="tcp:34288:31"/>that purpoſe he would make it known to them in the kindeſt man<g ref="char:EOLhyphen"/>ner imaginable. Thus when Hea<g ref="char:EOLhyphen"/>ven had given him a <hi>Dauphin,</hi> he cauſed him to be carry'd tho<g ref="char:EOLhyphen"/>rough the Streets in an open Cra<g ref="char:EOLhyphen"/>dle, that the People might be<g ref="char:EOLhyphen"/>hold him at their eaſe, and enjoy the pleaſure of the ſight of that Bleſſing which they had ſo long deſired for the love of the Father.</p>
+            <p>I will here alſo obſerve ſome of his memorable Sayings, ſome of which diſcover the Sentiments, and very bottom of his Soul, as others the quickneſs of his Wit.</p>
+            <p>At ſuch times as he was taken up in preſſing Affairs, ſo that he could not aſſiſt at Maſs, (I mean upon the Worky-days, for upon Holy<g ref="char:EOLhyphen"/>days and Sundays he never fail'd)
+<pb n="45" facs="tcp:34288:31"/>he uſed, by way of excuſe, to ſay to the Prelates, who were then at Court; <hi>When I am employed for the Publick, methinks I leave God for God himſelf.</hi>
+            </p>
+            <p>Sometimes he uſed to ſay to his Confidents, and moſt intimate of his Servants, <hi>The French do not know me ſufficiently; they will know bet<g ref="char:EOLhyphen"/>ter, when they have loſt me, what I am worth.</hi> Then lifting up his Eyes to Heaven, <hi>Lord, I am ready to depart this World when you pleaſe, but what will become of this poor People?</hi>
+            </p>
+            <p>When any adviſed him to be more careful of the preſervation of his Perſon than he uſed to be, and not to go ſo often alone, or ſo ſlenderly accompanyed, as his cu<g ref="char:EOLhyphen"/>ſtom was, he would anſwer, <hi>Fear ought not to be admitted into a Royal
+<pb n="46" facs="tcp:34288:32"/>Breaſt: He that fears Death, will never attempt any thing upon me; and he that deſpiſes his own Life, may be always Maſter of mine, in ſpight of a thouſand Guards. I com<g ref="char:EOLhyphen"/>mit my ſelf to God when I riſe, and when I lie down, I am in his Hands; after all, I live in ſuch a manner, that I ought not to diſtruſt; it belongs to Tyrants to ſtand continually in Fear.</hi>
+            </p>
+            <p>The Duke of <hi>Orleans,</hi> his ſecond Son, being extream ſick, and at the point of Death, he declared, That if he ſhould die, he would not have any go about to comfort him, for he had entirely reſign'd himſelf to the Will of God.</p>
+            <p>Within two or three years after his coming to <hi>Paris,</hi> all the Sub<g ref="char:EOLhyphen"/>urbs, which were old ruinous Hou<g ref="char:EOLhyphen"/>ſes,
+<pb n="47" facs="tcp:34288:32"/>were repaired; and the parti<g ref="char:EOLhyphen"/>cular and publick Buildings, which he rais'd in that great City, made it become more Beautiful than e<g ref="char:EOLhyphen"/>ver. The Spaniſh Ambaſſadors that came thither to ſwear the Treaty of <hi>Vervins,</hi> were aſtoniſhed to be<g ref="char:EOLhyphen"/>hold it in ſo good a Condition, and ſo different from what it was in the War, inſomuch, that they told him one day, <hi>Sir, Here's a City mightily chang'd from what it was when we ſaw it laſt. Do not admire at that,</hi> (ſaid he) <hi>when the Maſter is not at home, all is in diſ<g ref="char:EOLhyphen"/>order; but when he returns to his Houſe, his Preſence becomes its Or<g ref="char:EOLhyphen"/>nament, and all things there feel the Advantage.</hi>
+            </p>
+            <p>He was in very great ſtreights at the beginning of his Reign, in ſuch manner, that he was heard to ſay,
+<pb n="48" facs="tcp:34288:33"/>
+               <hi>That he ſeemed once a King without a Kingdom, a Husband without a Wife, and a Warriour without Mony: But ſince that God had ſhewn him ſo great Bleſſings, as to give him his Ar<g ref="char:EOLhyphen"/>ſenal, he might boaſt that he had there wherewith to Arm Fifty Thouſand Men with all ſorts of Munition, and in the</hi> Baſtile (which is near the other) <hi>wherewith to pay them for three Years.</hi>
+            </p>
+            <p>He ſaid, That he had croſt the Imaginations of three ſorts of Peo<g ref="char:EOLhyphen"/>ple; The <hi>Huguenots,</hi> who thought he would be always of their Reli<g ref="char:EOLhyphen"/>gion: The <hi>Leaguers,</hi> who hoped he would not ſuffer himſelf to be converted: And the third Party, who believed he would never be married to a ſecond Wife: <hi>I have deceived them all three,</hi> ſaid he, <hi>I have left the</hi> Huguenot <hi>Opinions, I
+<pb n="49" facs="tcp:34288:33"/>am become a good Catholique, I am married again, and I have Children that ſhall ſucceed me, if God pleaſes.</hi>
+            </p>
+            <p>He ſaid alſo, <hi>That when he firſt came to the Crown, he found three Parties; that he had united all three into one, without any Terms of diſtinction; that he was the King of theſe, as well as thoſe; that he believed them all equally affected to his Service, but that it belonged to him to make the Difference, and to chuſe thoſe that he thought moſt capa<g ref="char:EOLhyphen"/>ble.</hi>
+            </p>
+            <p>
+               <hi>Nereſtan,</hi> a very gallant Gentle<g ref="char:EOLhyphen"/>man, having raiſed him a Regi<g ref="char:EOLhyphen"/>ment, and as he proteſted that he deſired no recompenſe, but only the Glory to ſerve him: The King Replyed, <hi>Good Subjects ought to ſpeak as you do; they ought to forget
+<pb n="50" facs="tcp:34288:34"/>their Services, but it belongs to the Prince to remember them; and if he deſires that they ſhould continue faith<g ref="char:EOLhyphen"/>ful, he ought to be juſt and acknow<g ref="char:EOLhyphen"/>ledging.</hi>
+            </p>
+            <p>The <hi>Huguenots</hi> requiring of him ſome places of ſecurity, he told them, <hi>I am the only Security of my Subjects, I never yet broke my Faith with any.</hi> And when they reply<g ref="char:EOLhyphen"/>ed, <hi>That King</hi> Henry III. <hi>had given them ſuch. The Times then,</hi> ſaid he, <hi>were ſuch, that made him fear you, and not love you; but as for me, I love you, and fear you not.</hi> Some have made him give the ſame Anſwer to other Perſons.</p>
+            <p>They told him one Day of a certain Captain, who had been of the League, and was really a very gallant Man; but tho he had been
+<pb n="51" facs="tcp:34288:34"/>pardoned by him, and had ob<g ref="char:EOLhyphen"/>tained from his Favour many other Benefits, yet for all this he loved him not at all; <hi>I will,</hi> ſaid the King, <hi>do him ſo many good Offices, that I will force him to love me whe<g ref="char:EOLhyphen"/>ther he will or no.</hi> 'Twas thus that this Prince uſed to gain back the greateſt Revolters. And he was uſed to ſay to thoſe who admired at ſuch Proceedings, <hi>That a Man catches more Flies with one ſpoonful of Honey, than twenty Tun of Vi<g ref="char:EOLhyphen"/>neger.</hi>
+            </p>
+            <p>But as Policy obliged him to do thus to thoſe who loved him not, ſo his Generoſity cauſed him al<g ref="char:EOLhyphen"/>ways to grant an eaſie Pardon to thoſe who humbly ſought it by Submiſſion. And he had often that excellent Verſe of <hi>Virgil</hi> in his Mouth:
+<q>Parcere Subjectis, &amp; Debellare Superbos.</q>
+            </p>
+            <pb n="52" facs="tcp:34288:35"/>
+            <p>He jeer'd thoſe extremely who paſs the Bounds of their Profeſſion, and meddle with thoſe things that do not belong to their Science. A Biſhop one Day diſcourſing of Mar<g ref="char:EOLhyphen"/>tial Affairs very ill-favouredly, he turn'd from the Cock to the Aſs, as the Saying is, and askt him, <hi>To what Saint does the Office of that day belong in your Breviary?</hi>
+            </p>
+            <p>At another time his own Taylor having printed a little Book of cer<g ref="char:EOLhyphen"/>tain Orders, which he thought ne<g ref="char:EOLhyphen"/>ceſſary for the Public Good, and preſenting it to the King, he took it, laughing, and having run over ſome Pages, he called to one of his <hi>Valets de Chambre; Go,</hi> ſays he, <hi>fetch hether my Chancellor, to make me a new Suit, ſince you ſee here my Taylor has undertook to make Orders for Government.</hi>
+            </p>
+            <pb n="53" facs="tcp:34288:35"/>
+            <p>A Gentleman of <hi>Provence</hi> having purchaſed at a dear Rate a Preſi<g ref="char:EOLhyphen"/>dents place, for which he was fain to borrow Mony; being come to wait upon the King, he ſaid ſoftly to a Lord that was near him, <hi>Be<g ref="char:EOLhyphen"/>hold here a good Judge; I doubt not but he will diſcharge the Duty that he owes very honeſtly, in a ſmall time.</hi>
+            </p>
+            <p>A Famous Phyſician being con<g ref="char:EOLhyphen"/>verted from <hi>Huguenotiſm</hi> to the Catholique Religion, he ſaid to <hi>Sully, My Friend, your Religion is deſperately ſick, the Phyſicians have given it over.</hi>
+            </p>
+            <p>The <hi>Huguenots</hi> of <hi>Poictou</hi> and <hi>Zaintonge,</hi> having ſent to him cer<g ref="char:EOLhyphen"/>tain Deputies to requeſt ſome Suc<g ref="char:EOLhyphen"/>cours, ſoon after his Converſion, he bid them, <hi>Apply your ſelves to my
+<pb n="54" facs="tcp:34288:36"/>Siſter, your Government is now fallen to Diſtaff;</hi> that Princeſs remain<g ref="char:EOLhyphen"/>ing ſtill a <hi>Huguenot.</hi>
+            </p>
+            <p>The Queen making a Ball in the firſt Year after her Marriage, for which ſhe made choice of Fifteen of the moſt Beautiful and beſt qua<g ref="char:EOLhyphen"/>lified Ladies of the Court, he ſaid thus to the Nuncio, <hi>Sir, I never beheld a more Beautiful Squadron, nor in all my Wars one more danger<g ref="char:EOLhyphen"/>ous than this.</hi>
+            </p>
+            <p>A certain Lord, who had a long time ſtood Neuter during the trou<g ref="char:EOLhyphen"/>bles, and took part with neither ſide, coming to him one time in<g ref="char:EOLhyphen"/>to the Room where he was play<g ref="char:EOLhyphen"/>ing at Cards, he call'd to him thus: <hi>Come, Sir, you are welcom, if we win, you ſhall be on our ſide.</hi>
+            </p>
+            <pb n="55" facs="tcp:34288:36"/>
+            <p>A Lady of Condition, but very old and dry, being come to a Court-Ball, in a green Dreſs, he told her merrily, <hi>That he was much obliged to her, for having reconciled Verdure and Drineſs to honour the Company.</hi>
+            </p>
+            <p>A Spaniſh Embaſſador ſaying by way of Menace, that the King his Maſter would maintain ſuch an Action at the Head of an Hundred Thouſand Men; He replyed anger<g ref="char:EOLhyphen"/>ly, <hi>You deceive your ſelf, they are not Men in</hi> Spain, <hi>but Shadows.</hi>
+            </p>
+            <p>Once; when the <hi>Prevoſt de Mer<g ref="char:EOLhyphen"/>chands,</hi> and the <hi>Eſchevins</hi> came to demand of him his permiſſion for the raiſing a ſmall Impoſition upon the Water-pipes in <hi>Paris,</hi> towards the defraying the Expences of the
+<pb n="56" facs="tcp:34288:37"/>Entertainment of Forty <hi>Swiſſe</hi> De<g ref="char:EOLhyphen"/>puties lately arrived there for the renewing the Allyance, he an<g ref="char:EOLhyphen"/>ſwered, <hi>Find ſome other expedient, it belongs only to our Lord to change Water into Wine.</hi>
+            </p>
+            <p>Behold here a ſmall part of the renowned Actions, and memora<g ref="char:EOLhyphen"/>ble Sayings of <hi>Henry the Great</hi> There is an infinite number of o<g ref="char:EOLhyphen"/>thers which are graved in immor<g ref="char:EOLhyphen"/>tal Characters in the Hearts of all good <hi>French-men,</hi> who paſs them from Father to Son, through all Poſterity, to ſerve for a Model to Sovereign Princes, who aim (as they ought) to reign happily, and meaſure their Power by the Rules, of Goodneſs and Juſtice.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:34288:37"/>
+         </div>
+      </body>
+   </text>
+</TEI>
